@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h2 {
+  text-align: center;
+}
+
+.indicado {
+  margin-bottom: 2rem;
+}
+
+.input {
+  display: flex;
+  flex-direction: column;
+  width: 15rem;
+  margin-bottom: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+}
