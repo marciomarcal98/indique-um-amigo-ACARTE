@@ -83,6 +83,12 @@ button:hover {
   height: 1rem;
 }
 
+.regulamento {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
 @media (max-width: 1024px) {
   html {
     font-size: 93.75%;
